@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Pranav-2004-V
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Btech CSE 3rd year
-  
+# ISA-Project
+The ISA Proj file and all files in Cryptography folder,uses the pycryptodome package that needs to be installed.
+Also, for the setup and interface, tkinter module is required.
